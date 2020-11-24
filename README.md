@@ -1,12 +1,12 @@
 # WebStore
 
-Acerca de Aplicación WebStore:
+Acerca de AplicaciÃ³n WebStore:
 
 Desarrollo creado con el IDE VisualStudioCode en lenguaje Python3,7 empleando el framework Django 2.1.
 Base de Datos creada con MySQL, por lo cual es necesario integrar la libreria de base de datos: mysql-client
-Se emplea bootstrap4.4.1 con Responsive Design para la interfaz de usuario web, por lo cual es necesario integrar esta librería para su correcta visualización o poseer buena conexion a internet.
+Se emplea bootstrap4.4.1 con Responsive Design para la interfaz de usuario web, por lo cual es necesario integrar esta librerÃ­a para su correcta visualizaciÃ³n o poseer buena conexion a internet.
 
-La BD será Relacional con las siguiente tablas:
+La BD serÃ¡ Relacional con las siguiente tablas:
 
 Item(PRODUCTO)
 - id
@@ -24,7 +24,7 @@ Order(COMPRA)
 - idPago
 - fechaCompra
 
-User(CLIENTE se usará como pruebas el usuario de acceso a mySql-backend)
+User(CLIENTE se usarÃ¡ como pruebas el usuario de acceso a mySql-backend)
 - id
 - nombre
 - identif
@@ -43,7 +43,4 @@ PAGO
 Pendiente: integrar con SandBox API para Pay-Out -> Para lo referente a pagos.
 
 Att: Julian Garcia
-eMail: jugarcia01@gmail.com
-
-LinkProyecto:
-origen https://github.com/JulianArdila/WebStore
+eMail: jugarcia01@hotmail.com
