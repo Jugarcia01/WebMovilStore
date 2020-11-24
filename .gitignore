@@ -3,6 +3,7 @@ tmpBcks/wnetStore_7z
 tmpBcks/wnetStore_OK_zip
 tmpBcks/wnetStore_ORG_zip
 mStore_zip
+webStore/webStore/settings.py
 ionic-angular-cart-master/.gitignore
 ionic-angular-cart-master/angular.json
 ionic-angular-cart-master/browserslist
